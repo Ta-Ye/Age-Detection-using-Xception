@@ -2,7 +2,7 @@
 
 해당 모델은 Xception을 기반으로 한 연령대 판별 딥러닝 모델입니다.
 
-위 모델은 안면 인식 기반 반응형 키오스크에 사용됩니다.
+위 모델은 <a href="https://github.com/Ta-Ye/Kiosk_Program"> 안면 인식 기반 반응형 키오스크 </a>에 사용됩니다.
 
 <br>
 
